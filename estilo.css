@@ -1,0 +1,13 @@
+.producto{
+    width: 250px;
+border: 2px solid gray;
+padding: 15px;
+border-radius: 15px;
+box-shadow: 5px 5px 10px gray;
+}
+
+.button{
+    background-color: green;
+color: white;
+padding: 10px;
+}
